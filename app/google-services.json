@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "416258491540",
+    "firebase_url": "https://adminiplhatke2019.firebaseio.com",
+    "project_id": "adminiplhatke2019",
+    "storage_bucket": "adminiplhatke2019.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:416258491540:android:60786a5214c26637",
+        "android_client_info": {
+          "package_name": "com.amonicks.adminiplhatke2019"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "416258491540-hdqnotsoh1iqaj180afnrjrvhsf95kej.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.amonicks.adminiplhatke2019",
+            "certificate_hash": "fc0564df4713b467811120bab7e6c0c026b378e2"
+          }
+        },
+        {
+          "client_id": "416258491540-i319iudmj0q90mbv6uji4v57qdb7ju08.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC6JtBn2QP3S66iCsO5MKHi1PZqxPY7hDs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "416258491540-i319iudmj0q90mbv6uji4v57qdb7ju08.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
